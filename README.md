@@ -20,5 +20,8 @@ The project workflow commences with thorough data preprocessing to clean and pre
 To explore the Webseries Recommendation System and gain insights into the NLP techniques employed, clone this repository and execute the provided Jupyter Notebook. Before running the notebook, ensure that the dataset is properly located or downloaded from the provided source link.
 
 # Recommendation For Webseries  By  The Model:
-![image](https://github.com/Nikhildsaroj/Webseries-Recommendation-System-using-NLP/assets/148480961/87a2df0f-0d3a-43fb-8f43-c98f7428e468)
+![image](https://github.com/Nikhildsaroj/Webseries-Recommendation-System-using-NLP/assets/148480961/eb0a1c9a-d1c1-4251-b7a4-f2d1ba140b01)
+![image](https://github.com/Nikhildsaroj/Webseries-Recommendation-System-using-NLP/assets/148480961/42ceb068-c0a2-4fd1-899b-746c6bd97a72)
+
+![image](https://github.com/Nikhildsaroj/Webseries-Recommendation-System-using-NLP/assets/148480961/eace3cb6-9e8d-427e-81b3-93ac5512ab7f)
 
